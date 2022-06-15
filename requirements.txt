@@ -1,0 +1,4 @@
+uproot
+numpy
+matplotlib
+scipy
